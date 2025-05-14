@@ -1,4 +1,4 @@
-# GH200 Year-In-Review 
+# Facilitating Research on the NVIDIA Grace Hopper Superchip: The CU Boulder Research Computing Experience 
 
 NVIDIA's GH200 Grace Hopper Superchip offers strong potential for 
 accelerating large-scale AI and HPC workflows through its tightly 
