@@ -1,0 +1,3 @@
+# Alpine New User Seminar for RMACC
+
+Tmux (“terminal multiplexor”) is a Linux tool with two useful functions: 1) a user may run several terminal windows within a single Tmux session, and 2) the Tmux session can be run in the background.   The latter functionality is particularly useful on remote computing systems (e.g., supercomputers) that require user access via ssh, because users may “reattach” to their Tmux session each time they login, minimizing loss of work between logins.  This presentation will provide an overview, hands-on exercises, and a discussion of useful tools and best practices to streamline use of Tmux.  To follow along with the hands-on exercises, register for a Research Computing account beforehand (this will take about 10 minutes).
