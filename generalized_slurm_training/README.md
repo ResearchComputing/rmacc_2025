@@ -1,0 +1,3 @@
+# Taming the Cluster: A Researcher’s Guide to Slurm   
+
+Tired of wrestling with Slurm? This fast-paced, hands-on workshop will equip researchers with the essential tools and strategies to handle common challenges such as job failures, long queue times, and resource allocation issues.  Whether you're a beginner or have some experience with SLURM, this workshop will enable you to design, build, and troubleshoot efficient HPC research workflows. If you would like to practice some of the hands-on exercises at the end of the session, register for a Research Computing account beforehand (this will take about 10 minutes).    
